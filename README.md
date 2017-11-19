@@ -1,2 +1,4 @@
-# GameBase
-Base assets for Unreal Engine based Game
+# GameBase plugin
+Base assets for Unreal Engine 4 based Game.
+
+**Work In Progress**
